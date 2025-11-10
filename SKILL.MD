@@ -1,7 +1,8 @@
 ---
 name: Cognitive-Strategic Transcript Analysis
 description: Deep cognitive and strategic analysis of conversation transcripts to extract core insights, thought patterns, mechanisms, and implications. Use when analyzing interview transcripts, discussions, or conversations to understand underlying reasoning and strategic value.
-version: 1.0.0
+metadata:
+  version: 1.0.0
 ---
 
 # Cognitive-Strategic Analysis of Transcripts
@@ -97,4 +98,4 @@ This is the ultimate cognitive prize — the compressed essence that changes how
 - For simple transcription cleanup
 - For basic summarization only
 - When emotional/empathetic analysis is needed
-- For legal or compliance-focused transcript review
+- For legal or compliance-reviewed transcript review
