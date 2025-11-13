@@ -79,6 +79,9 @@ If the conversation contains chaos or digressions — organize them into clear l
 
 Every analysis must conclude with:
 
+## Output Language
+Polish
+
 ### **Distilled Value**
 
 A section of 3–5 sentences synthesizing the deepest insight of the conversation: what radically expands the listener's way of thinking about the subject.
